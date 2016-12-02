@@ -10,3 +10,19 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.left, .right{
+	width: 200px;
+}
+
+.left {
+	float: left;
+	margin-right: 10px;
+	clear: left;
+}
+
+.right{
+	float: right;
+	margin-left: 10px;
+	clear: right;
+}

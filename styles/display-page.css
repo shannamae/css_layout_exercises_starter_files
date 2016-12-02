@@ -1,0 +1,48 @@
+body {
+	padding: 30px;
+	font-size: 0;
+}
+
+.bigbox {
+	border: 1px solid black;
+	height: 500px;
+	width: 800px;
+	font-size: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.boxy {
+	height: 200px;
+	width: 50%;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.boxz {
+	height: 300px;
+	width: 33.33%;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+
+.first {
+	background-color: green;
+}
+
+.second{
+	background-color: blue;
+}
+
+.third {
+	background-color: gray;
+}
+
+.fourth {
+	background-color: black;
+}
+
+.fifth {
+	background-color: orange;
+}
